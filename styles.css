@@ -1,0 +1,24 @@
+h1 {
+    text-align:center;
+    font-family:Trebuchet MS;
+    font-size: 4rem;
+    font-weight: bold;
+    color: #fff1a0;
+    text-decoration: underline;
+}
+body {
+    background: linear-gradient(180deg, #000000, #7c7c7c);
+    height: 100vh;
+}
+h2 {
+    text-align: center;
+    color: #fff1a0;
+}
+
+.bloco {
+    display: block;
+    margin:auto;
+    border-radius: 25px;
+    width: min(70%, 400px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
